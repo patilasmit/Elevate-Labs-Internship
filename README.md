@@ -39,10 +39,3 @@ This project contains my solution to **Task 1** of the **Elevate Labs Data Analy
 | 7️⃣ | Engineer features:<br> ➤ `age`<br> ➤ `days_as_customer`<br> ➤ `age_group`<br> ➤ `loyalty_tier`<br> ➤ `is_parent`, `household_size` |
 
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `Data Cleaning and Preprocessing Task.ipynb` | Full notebook with code |
-| `README.md` | Project summary and documentation |
-
