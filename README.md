@@ -1,5 +1,6 @@
 # Elevate-Labs-Internship
 
+# Task No 1 Elevate Labs Internship | Day 1
 ## 🧼 Data Cleaning & Preprocessing | Elevate Labs Internship
 This project contains my solution to **Task 1** of the **Elevate Labs Data Analyst Internship**, focused on cleaning and preparing real-world customer data using Python (Pandas).
 
@@ -37,5 +38,71 @@ This project contains my solution to **Task 1** of the **Elevate Labs Data Analy
 | 5️⃣ | Format date (`Dt_Customer` → `date`) |
 | 6️⃣ | Fix data types |
 | 7️⃣ | Engineer features:<br> ➤ `age`<br> ➤ `days_as_customer`<br> ➤ `age_group`<br> ➤ `loyalty_tier`<br> ➤ `is_parent`, `household_size` |
+
+
+
+# Task No 2 - Elevate Labs Internship | Day 2
+# 🛍️ Global Superstore Sales Intelligence Dashboard
+
+This Power BI dashboard analyzes sales and profitability for Global Superstore—a retail company with wide-ranging operations across products, customer segments, and regions. The dashboard is divided into two insightful pages: an Executive Overview and a Deep Dive into performance drivers.
+
+## 📌 Problem Statement
+
+Global Superstore operates in multiple countries, offering a vast product catalog across various customer segments. Despite its reach, the business faces challenges like fluctuating profits, inefficiencies in order fulfillment, and an unclear understanding of what drives or drains revenue.
+
+🔍 **Key Challenges Addressed:**
+- Which products and regions are the most/least profitable?
+- How do discounts, shipping modes, and customer segments impact profit?
+- Where can we optimize operations and boost margins?
+
+## 📈 Dashboard Goals
+- Visualize sales and profit trends across categories, regions, and segments.
+- Identify high-performing and underperforming areas in the business.
+- Understand how discounts and shipping choices affect profitability.
+- Drive better decisions through data-backed insights.
+
+## 📊 Dashboard Overview
+### ✅ Page 1: Executive Overview – Sales & Profit Breakdown
+
+- **Category vs Sub-Category Analysis** (Stacked Bar Chart)
+- **Sales by State** (Filled Map or Matrix)
+- **Customer Segment Profit Share** (Donut Chart)
+- **Order Priority vs Sales & Profit** (Column Chart)
+- **Discount vs Profit Impact** (Scatter/Line Chart)
+- **Shipping Mode Profitability** (Column Chart)
+
+📌 *Summary:* A high-level view of sales and profitability, identifying top-performing areas and early profit leaks.
+
+### ✅ Page 2: Deep Dive – Performance Drivers
+
+- **Sub-Category Sales by Category**
+- **State-wise Sales & Profit (with Conditional Formatting)**
+- **Segment-wise Profit Distribution**
+- **Order Priority vs Financial Impact**
+- **Shipping Mode and Profitability Breakdown**
+
+📌 *Summary:* Deeper analysis to uncover what truly drives or hinders performance and profitability.
+
+## 🧠 Key Insights
+- Phones and Chairs dominate sales; some categories underperform.
+- California leads in revenue, but other states show low profit.
+- Discounts are a major factor in declining profit margins.
+- Standard shipping is the most used but not always most profitable.
+
+## 🛠 Tools Used
+
+- **Power BI** – Data cleaning, modeling, and visualization
+- **DAX** – Calculated measures and KPIs (e.g., Total Sales, Profit)
+- **Excel** – Initial dataset exploration
+
+## ✅ Outcomes
+
+This dashboard empowers decision-makers to:
+- Optimize product and segment strategies
+- Revisit discounting and shipping policies
+- Focus on high-potential regions and reduce operational inefficiencies
+
+> 📢 **From raw data to real business decisions—this project showcases the power of BI to drive strategic growth.**
+
 
 
