@@ -104,5 +104,31 @@ This dashboard empowers decision-makers to:
 
 > 📢 **From raw data to real business decisions—this project showcases the power of BI to drive strategic growth.**
 
+# Task No 3 - Elevate Labs Internship | Day 3
+# 🧠 Customer Sales & Regional Performance Optimization
+
+## 📊 Project Overview
+This project focuses on analyzing multi-dimensional sales data to derive actionable insights that enhance strategic decision-making in marketing, operations, and product planning. We utilize SQL to explore customer behavior, product performance, regional sales, and sales channel effectiveness.
+
+> **Objective**: To optimize customer segmentation, boost regional performance, and enhance sales channel strategy using data-driven analysis.
+
+
+## 📁 Folder Structure
+- `sql/`: Contains the full SQL query script used for analysis.
+- `report/`: Final project report in PDF format with screenshots and interpretations.
+
+## 🛠️ Technologies Used
+- SQL (MySQL)
+  
+## 📈 Key Insights
+✔️ Top 5 revenue-generating regions  
+✔️ High-value customers based on average spend  
+✔️ Most frequently purchased & profitable products  
+✔️ Channel-wise performance comparison  
+✔️ Region-wise average order value  
+✔️ Repeat customer identification
+
+
+
 
 
