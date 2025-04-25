@@ -129,6 +129,64 @@ This project focuses on analyzing multi-dimensional sales data to derive actiona
 ✔️ Repeat customer identification
 
 
+# Task No 4 | Elevate Labs Internship | Day 4 
+# 💼 Financial Loan Dashboard – Power BI Project
 
+This project is part of my internship at **Elevate Labs**, focused on designing a comprehensive, interactive **financial loan portfolio dashboard** using Power BI. It visualizes key business insights for stakeholders to drive strategic decisions in loan approval, marketing, and risk management.
+
+## 📌 Task Objective
+
+> **Create an end-to-end interactive dashboard** to help stakeholders:
+- Understand loan issuance and repayment trends
+- Analyze borrower behavior and risk
+- Identify high-performing loan purposes and regions
+- Predict revenue and suggest data-driven strategies
+
+## 📊 Dashboard Overview
+
+The Power BI dashboard is structured into **4 main pages**:
+
+| Page | Title | Purpose |
+|------|-------|---------|
+| 1️⃣ | **Portfolio Overview** | High-level KPIs, loan types, repayment volume by region |
+| 2️⃣ | **Risk & Borrower Profile** | DTI risk, loan term profitability, home ownership stats |
+| 3️⃣ | **Loan Perfromamce Deatils** | Loan issuance over time, repayment trends, profit insights |
+
+## 🧮 Key KPIs & Measures
+- **Total Loan Issued**
+- **Total Payment Received**
+- **Average Interest Rate**
+- **Delinquency Rate**
+- **Net Profit per Loan**
+- **DTI Risk Level Classification**
+- **Revenue Forecast (monthly)**
+
+## 🧠 Business Insights
+- 🔺 High DTI borrowers (> 20%) account for the majority of defaults
+- 💰 Credit card & debt consolidation loans yield highest net profit
+- 🕒 60-month loans are more profitable, but riskier
+- 🌎 Top-performing states by repayment: **California**, **Texas**, **New York**
+
+## ✅ Recommendations
+- Focus marketing efforts on **high-yield loan purposes**
+- Tighten approval criteria for borrowers with **DTI > 0.2**
+- Offer tailored plans in **top-performing states**
+- Use risk-adjusted pricing based on **loan grade and income**
+
+## 🚀 Tools Used
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Data Modeling & Visualization
+- Excel/CSV Dataset
+
+## 📁 Files Included
+- `Financial Dashboard.pbix` – Power BI Project File
+- `Financial_Loan_Dashboard_Summary.pptx` – Presentation Summary
+- `README.md` – Project Documentation
+## 🙋‍♂️ About Me
+
+👋 Hi, I'm **Asmit** – a Data Analyst Intern passionate about financial analytics, data storytelling, and building smart dashboards to solve real-world business problems.
+
+📎 [LinkedIn](https://www.linkedin.com/in/analyticswithasmit)
 
 
