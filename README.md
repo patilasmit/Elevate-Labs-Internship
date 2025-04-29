@@ -190,3 +190,129 @@ The Power BI dashboard is structured into **4 main pages**:
 📎 [LinkedIn](https://www.linkedin.com/in/analyticswithasmit)
 
 
+
+
+# Task No 5 | Elevate Labs Internship | Day 5
+# Exploratory Data Analysis on Titanic Dataset
+
+### 🧾 Project Overview
+
+This project involves performing **Exploratory Data Analysis (EDA)** on the Titanic dataset to understand survival factors and prepare a visual report. A complete **Jupyter Notebook** analysis was done and exported as a **PDF report**.
+
+### 🔍 Objective
+To analyze the Titanic dataset and uncover insights related to passenger survival based on:
+- Age
+- Sex
+- Passenger Class (Pclass)
+- Fare paid
+- Family connections (SibSp, Parch)
+- Embarkation port
+
+### 📁 Files Included
+- `Titanic.pdf`: Final PDF report exported from the Jupyter Notebook.
+- `titanic.csv`: Titanic dataset used for analysis (assumed).
+- `titanic_analysis.ipynb`: (Not shared here but assumed used for PDF export).
+
+### 📊 Key Analysis Performed
+- **Data Cleaning**:
+  - Handled missing values (Age, Embarked)
+  - Dropped `Cabin` due to high null percentage
+- **Feature Engineering**:
+  - Created `FamilySize`, `IsAlone`, and `AgeGroup` features
+- **Visualizations**:
+  - Correlation heatmaps
+  - Countplots for survival vs. gender/class
+  - Fare and Age distributions
+  - Barplots for survival across new features
+- **Insights**:
+  - Higher survival among females and first-class passengers
+  - Children had higher survival rates than adults
+  - Family presence increased survival chances
+  - Fare positively correlated with survival
+
+
+### 🛠️ Tools & Libraries Used
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+
+
+
+# Task No 6 | Elevate Labs Internship | Day 6 
+## 🛍️ E-Commerce SQL Analysis
+This project presents a comprehensive SQL-based analysis of an e-commerce dataset. The goal is to extract actionable insights about customer behavior, revenue trends, product performance, and delivery metrics using structured queries only (no BI/visual tools used). The dataset includes orders, products, payments, customers, and sellers data.
+
+## ✅ Objective
+Analyze monthly revenue, order volume, customer patterns, and seller performance to support business decision-making through SQL.
+
+## 🛠️ Tools Used
+- **Database:** MySQL / PostgreSQL
+- **Environment:** Local DB / Jupyter Notebook (SQL Magic)
+- **Language:** SQL
+
+
+## 🧩 Dataset Overview
+The analysis uses the following tables:
+
+| Table Name      | Description                                 |
+|-----------------|---------------------------------------------|
+| `orders`        | Order metadata, status, and timestamps      |
+| `customers`     | Customer location and identifiers           |
+| `order_items`   | Product-level order details                 |
+| `payments`      | Payment methods and values                  |
+| `products`      | Product dimensions and categories           |
+| `sellers`       | Seller locations                            |
+| `geolocation`   | Zip-code based coordinates and mapping      |
+
+## 📂 Folder Structure
+ecommerce-sql-analysis/ 
+  │ ├── queries/ 
+  │ └── ecommerce_analysis.sql # All SQL queries written for this analysis 
+  │ ├── results/ 
+  │ └── README.md
+
+## 📌 Key SQL Queries
+
+### 🔹 Basic Queries
+- Unique customer cities
+- Order count for 2017
+- Total sales per product category
+- Installment payment percentage
+- Customer count by state
+
+### 🔸 Intermediate Queries
+- Monthly order trends in 2018
+- Average products per order per city
+- Revenue share by product category
+- Correlation: product price vs order count
+- Seller revenue ranking
+
+### 🔹 Advanced Queries
+- Moving average of order values per customer
+- Cumulative monthly revenue
+- YoY growth in sales
+- Top 3 highest-spending customers by year
+
+### 🧪 Ad-hoc Analysis
+- Monthly revenue & order volume
+- Top 3 revenue-generating months
+- Monthly active customers
+- Delivery performance status
+- Payment value segmentation
+- Regional classification of customers
+
+
+## 🔍 Conclusion
+
+This SQL-only project demonstrates strong analytical capabilities by:
+- Deriving complex insights without external BI tools
+- Using window functions, CTEs, and CASE logic
+- Organizing queries from basic to advanced
+
+The work showcases end-to-end data understanding using only SQL as a tool.
+
+
+
+
