@@ -1,0 +1,5 @@
+years,"((payment - lag(payment,1) over(order by years))/
+lag(payment,1) over(order by years)) * 100"
+2016,NULL
+2017,12112.703757971803
+2018,20.00092387227461
