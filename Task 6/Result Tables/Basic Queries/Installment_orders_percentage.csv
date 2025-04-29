@@ -1,2 +1,0 @@
-"sum(CASE WHEN payment_installments >= 1 THEN 1 else 0 end)/count(*)*100"
-99.9981
