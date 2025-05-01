@@ -314,5 +314,52 @@ This SQL-only project demonstrates strong analytical capabilities by:
 The work showcases end-to-end data understanding using only SQL as a tool.
 
 
+# Task No 7 | Elevate Labs Internship | Day 7
+## 🚀 Project Overview
+As part of my data analyst internship at **Elevate Labs**, Task 7 involved conducting a detailed analysis of Adidas's U.S. retail sales dataset using **SQL for data exploration** and **Matplotlib for data visualization**. The objective was to extract actionable business insights and present them clearly through code, queries, and plots.
+
+## 📁 Dataset Summary
+The dataset contains U.S. sales records for Adidas products across:
+- 📅 Dates (`Order Date`)
+- 🏬 Retailers
+- 🛍️ Products
+- 🌎 Regions & States
+- 💰 Financial metrics: `Total Sales`, `Total Profit`, `Units Sold`, etc.
+- 🔄 Sales Method: Online vs Offline
+
+## 🎯 Business Questions Answered
+1. **Top Products by Revenue** – What are the best-selling products?
+2. **Regional Profit Analysis** – Which U.S. regions are most profitable?
+3. **Retailer Performance** – Who delivers the best profit per unit sold?
+4. **Monthly Revenue Trends** – How do sales vary over time?
+5. **Low-Margin Products** – Which products sell well but earn less profit?
+6. **Sales Channel Analysis** – Is Online or Offline more profitable?
+
+## 🧠 Tools Used
+- **SQLite** – SQL queries for aggregation, filtering, and grouping.
+- **Pandas** – Data manipulation in Python.
+- **Matplotlib** – Data visualization and plotting.
+- **Jupyter Notebook** – Interactive development environment.
+
+## 📈 Key Insights
+- **Men's and Women's Footwear** drive the highest revenue.
+- The **West region** outperforms others in terms of profit.
+- Some retailers offer significantly better **profit per unit**.
+- Strong **seasonal trends** observed in Q4.
+- Online sales yield **higher margins**, while Offline drives volume.
+- Certain products need **price adjustment** due to low profit margins.
+
+## 📦 Folder Structure
+├── adidas_sales_analysis.ipynb # Main analysis notebook 
+├── adidas_sales.db # SQLite database 
+├── README.md # This file
+
+## 📝 Conclusion
+This task demonstrated my ability to extract business intelligence from raw sales data using **SQL and Python**, produce clean visualizations, and draw strategic insights to aid data-driven decisions.
+
+## 🧑‍💼 Author
+**Asmit**  
+Data Analyst Intern @ Elevate Labs  
+[LinkedIn](https://www.linkedin.com/in/analyticswithasmit)  
 
 
