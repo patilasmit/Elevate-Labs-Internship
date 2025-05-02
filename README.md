@@ -362,4 +362,56 @@ This task demonstrated my ability to extract business intelligence from raw sale
 Data Analyst Intern @ Elevate Labs  
 [LinkedIn](https://www.linkedin.com/in/analyticswithasmit)  
 
+# Task No 8 | Elevate Labs Internship | Day 8
+# 📊 Optiveriance Sales Dashboard – Task 8 (Elevate Labs Internship)
+## 📝 Project Overview
+This Power BI dashboard project was developed as part of **Task 8** for the Elevate Labs Data Analyst Internship. The goal of the task was to design an interactive and insightful **Sales Dashboard** for a fictional company named **Optiveriance**, providing a complete analytical overview of sales performance, profitability, customer behavior, and product trends.
+
+## 📌 Objectives
+- Analyze and visualize sales and profit data across different years, regions, and products.
+- Create interactive views to monitor **key business metrics** such as:
+  - Total Sales
+  - Total Profit
+  - Profit Margin
+  - Quantity Sold
+  - Sales and Profit Moving Averages
+- Identify top-performing products and customers.
+- Compare current and past year performance to track growth or decline.
+- 
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**
+- DAX (Data Analysis Expressions)
+- Data modeling with **Date, Customer, Product, and Sales fact tables**
+- Visualizations: Bar charts, line graphs, cards, tables, slicers, and scatter plots
+
+## 📈 Key Insights
+### 🟧 Sales Optimex Dashboard
+- **Total Sales:** ₹154.6M | **Total Profit:** ₹57.8M
+- **Profit Margin:** 37.4% | **Total Quantity Sold:** 67.6K
+- **Top Products by Sales:** Brimmer, Nicel, Dimonies
+- **Top Customers:** 21st Ltd, 3LAB, Amylin Group
+- Strong profit margins across most products (>35%)
+
+### 🟨 Sales Overview 1
+- Last year's sales: ₹94.4M; Profit: ₹35.3M
+- High-performing months: July–August
+- Year-over-year comparison shows declining sales in some product segments
+
+### 🟨 Sales Overview 2
+- **Sales and Profit Moving Averages** calculated across dates
+- Q2 and Q4 generally yield higher profit margins
+- Downward trend in sales/profit from 2016 to 2014 observed
+
+## 🎯 Learnings & Takeaways
+- Learned how to structure a dashboard to be **user-friendly and insight-driven**
+- Applied advanced Power BI features including **slicers, DAX measures**, and **data filtering**
+- Gained deeper understanding of **sales KPIs**, time-based trends, and customer/product profitability
+
+## 👨‍💼 Developed By
+**Asmit Patil**  
+Data Analyst Intern – Elevate Labs  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/analyticswithasmit)
+
+
+
 
